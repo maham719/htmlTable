@@ -1,0 +1,22 @@
+table{
+    border-collapse: collapse;
+    margin: 20px auto;
+    font-family: Arial, sans-serif;
+    border-color: white;
+}
+th, td {
+    padding: 10px;
+    text-align: center;
+    background-color: #D6EAF1;
+}
+th {
+    background-color: #0a4b63;
+    color: white;}
+
+    .total-row td {
+        background-color: #a2c48d;
+        font-weight: bold;
+    }
+    .first{
+        background-color: #91C4D5;
+    }
